@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../UPDF"
+		},
+		{
+			"path": "../Zoom"
+		}
+	],
+	"settings": {}
+}
